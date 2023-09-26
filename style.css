@@ -158,9 +158,6 @@ footer .right{
     display: grid;
     grid-template-columns: auto auto;
 }
-footer.right a{
-    
-}
 footer .right a h2{
     font-size: 20px;
     padding: 5px;
